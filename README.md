@@ -7,7 +7,7 @@
 #### Rodando SonarQube
 `./gradlew composeUp`
 
-Isso executará o SonarQube em [locahost:9000](http://localhost:9000).
+Isso executará o SonarQube em [localhost:9000](http://localhost:9000).
 O login padrão é *admin/admin*, então você precisará definir uma nova senha.
 
 #### Executando uma varredura do SonarQube
